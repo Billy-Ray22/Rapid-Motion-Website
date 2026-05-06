@@ -1,0 +1,14 @@
+{
+  "name": "Rapid Motion X",
+  "description": "Premium video editing studio for luxury real estate storytelling.",
+  "requestFramePermissions": [
+    "accelerometer",
+    "autoplay",
+    "clipboard-write",
+    "encrypted-media",
+    "gyroscope",
+    "picture-in-picture",
+    "web-share"
+  ],
+  "majorCapabilities": []
+}
